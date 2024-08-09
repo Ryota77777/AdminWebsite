@@ -73,4 +73,5 @@ psql -U <new_user> -d <new_database> -f path_to_your_backup_file.sql
 <new_database> — это новая база данных, созданная для импорта.
 path_to_your_backup_file.sql — это путь к вашему файлу резервной копии.
 
-![Описание изображения](путь/к/вашему/изображению.png)
+### Скриншот
+![](https://github.com/Ryota77777/AdminWebsite/blob/main/photo_2024-08-10_03-07-38.jpg?raw=true)
